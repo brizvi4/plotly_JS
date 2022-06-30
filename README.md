@@ -7,12 +7,12 @@ In this project, I am tasked to help Rosa, who is a microbiological researcher. 
 
 For my analysis, I build a webpage using Javascript's Plotly library to plot data from external files and/or web-sources into bar, pie and bubble charts. I also made use of Javascript functional programming and methods to create interactive features, such as buttons or drop down menus, build chart components and finally HTML script tags to stylize and arrange the data to publish the results. The final working webpage was published using GitHub Pages. Please click [here](https://brizvi4.github.io/plotly_JS/) to view the page. 
 
-Publish final, working webpage using GitHub/GitPages to allow users access without the need to store the script and data in their local drives.
+
 
 
 ## Results
 
-
+People using the website can select a participants using an ID. A bar chart will be displayed which will show the top 10 bacterias found in the selcted participant's belly button. In addition to this, a bubble chart will also be displayed which will show a visual representation of the top ten bacterial species found. The gauge on the right of the webpage indicates how many times a participant cleaned their belly button while taking part in this study. 
 
 ![webpge.PNG](Resources/Dashboard_Image.PNG)
 
