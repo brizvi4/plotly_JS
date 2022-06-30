@@ -1,6 +1,6 @@
 # Plotly JS
 
-The site for this project was built using [GitHub Pages](https://brizvi4.github.io/plotly_JS/)
+The site for this project was built using GitHub Pages. [Please click here to view]:(https://brizvi4.github.io/plotly_JS/)
 
 ## Overview
 
