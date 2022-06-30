@@ -12,6 +12,6 @@ For my analysis, I use Javascript's Plotly library to plot data from external fi
 
 ## Results
 
-![webpage.PNG](Resources/Dashboard_Image.PNG)
+![webpge.PNG](Resources/Dashboard_Image.PNG)
 
 
