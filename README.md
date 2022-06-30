@@ -14,6 +14,6 @@ For my analysis, I build a webpage using Javascript's Plotly library to plot dat
 
 People using the website can select a participants using an ID. A bar chart will be displayed which will show the top 10 bacterias found in the selcted participant's belly button. In addition to this, a bubble chart will also be displayed which will show a visual representation of the top ten bacterial species found. The gauge on the right of the webpage indicates how many times a participant cleaned their belly button while taking part in this study. 
 
-![webpge.PNG](Resources/Dashboard_Image.PNG)
+![dashboard_image.PNG](Resources/Dashboard_Image.PNG)
 
 
