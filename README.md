@@ -13,6 +13,6 @@ For my analysis, I use Javascript's Plotly library to plot data from external fi
 
 ## Results
 
-<img width="524" alt="pic1" src="https://user-images.githubusercontent.com/95254809/176567127-b1c58e93-dab4-40c9-adcf-bb887e539d90.PNG">
+
 
 
